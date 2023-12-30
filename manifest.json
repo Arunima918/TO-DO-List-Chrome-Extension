@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "TO-Do List",
+  "version": "1.0",
+  "description": "A Personal Task Manager",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "img.png"
+  }
+}
